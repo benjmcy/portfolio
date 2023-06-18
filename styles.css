@@ -188,7 +188,7 @@
         }
 
         .top-menu-active .topic-menu-header::after {
-                content: '\02C4'
+                content: '\02C4';
         }
 
         .topic-content-header {
@@ -201,11 +201,14 @@
 
         .topic-content-header li i,
         .topic-content-header a,
-        .top-menu-active .topic-menu-header i,
         .top-menu-active .topic-content-header li i {
                 background-color: #F8E8EE;
                 font-size: 16px;
                 font-weight: 700;
+        }
+
+        .top-menu-active .topic-menu-header i {
+                background-color: #F8E8EE;
         }
 
         .topic-content-header li {
