@@ -72,7 +72,7 @@
         }
 
         .personal-info h1 {
-                margin-bottom: 30px;
+                margin-bottom: 15px;
         }
 
         .hamburger {
@@ -156,7 +156,7 @@
         }
 
         .topic-menu-header {
-                font-size: 16px;
+                font-size: 24px;
                 font-weight: 700;
                 padding: 5px 5px;
                 width: 100%;
@@ -204,6 +204,8 @@
         .top-menu-active .topic-menu-header i,
         .top-menu-active .topic-content-header li i {
                 background-color: #F8E8EE;
+                font-size: 16px;
+                font-weight: 700;
         }
 
         .topic-content-header li {
@@ -255,7 +257,7 @@
         }
 
         .menu-header {
-                font-size: 16px;
+                font-size: 24px;
                 font-weight: 700;
                 padding: 5px 5px;
                 width: 100%;
